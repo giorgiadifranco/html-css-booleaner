@@ -1,4 +1,20 @@
-
+.header{
+        position-anchor: top;
+    width: 10px;
+    height: 270px;
+}
+.header img{
+    position-anchor: top;
+    height: 250px;
+}
+.logo{
+    border-top-width: 300px;
+    width: 200px;
+    position:absolute
+}
+.sfondo{
+   width: relative;
+}
 .autore{
     background-image: url(pattern.png);
    background-repeat: no-repeat;
@@ -21,3 +37,39 @@ thead{
 .background{
     background-color: rgba(0, 191, 255, 0.429);
 }
+/*sezione 3*/
+.approfondimento1{
+    width: 310px;
+    height: 230px;
+    position:;
+    top: 10%;
+    left: 15%;
+    right:0%;
+    text-align: left
+}
+.title{
+    position:absolute;
+    left: 20px;
+    color:rgb(176, 173, 173)
+    }
+.approfondimento1 img{
+    width: 310px;
+    height: 230px;
+    position:;
+    top: 10%;
+    left: 15%;
+    right:0%;
+    text-align: left;
+}
+
+
+.approfondimento2 img{
+    width: 310px;
+    height: 230px;
+    position:;
+    top: 10%;
+    left: 15%;
+    right:0%;
+    text-align: left;
+}
+   
