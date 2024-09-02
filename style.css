@@ -1,0 +1,23 @@
+
+.autore{
+    background-image: url(pattern.png);
+   background-repeat: no-repeat;
+}
+.scritto{
+    color: rgb(196, 192, 192);
+}
+.autore{
+    color: rgb(90, 159, 233);
+}
+.data{
+    color:rgb(196, 192, 192);
+}
+thead{
+    padding: 0px 20px;
+       color: white;
+       background-color:rgb(41, 176, 238);
+       padding:1px;
+}
+.background{
+    background-color: rgba(0, 191, 255, 0.429);
+}
